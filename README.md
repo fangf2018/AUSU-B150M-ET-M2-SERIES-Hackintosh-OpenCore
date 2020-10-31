@@ -1,6 +1,4 @@
-# ASRock-Z390-Phantom-ITX-OpenCore-Hackintosh
-`交流群942593633`
-### [English](README.md) | [中文](README-zh.md)
+# AUSU-B150M-ET-M2-SERIES-OpenCore-Hackintosh
 
 ## 配置
 
